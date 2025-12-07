@@ -1,0 +1,5 @@
+{
+  "name": "OndoConnect AI Agent",
+  "description": "The official AI virtual assistant for Ondo State. Access government services, query state and federal laws, download forms, and get step-by-step business advice from home.",
+  "requestFramePermissions": []
+}
